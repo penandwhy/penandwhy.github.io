@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://penandwhy.github.io/sitemap.xml
